@@ -7,6 +7,7 @@
 
 ## Features
 ### Technical Indicators
+- I studied over 80 technical indicators in four notebooks.
 - Ex. SMAs, RSI, WilliamsR, BollingerBands%p, ATR, ... 
     - [TI Analysis](https://github.com/jo-cho/Technical_Indicators_analysis/blob/main/Tech.Indicators%20Analysis.ipynb)
 - Is it better for features?
