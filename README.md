@@ -1,5 +1,7 @@
 # Feature Engineering and Feature importance of Technical Indicators in Financial markets.
 
+Background knowledge in [here](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/Feature%20Analysis%20(Tech.%20Indicators)%20for%20ML.ipynb)
+
 ## Technical Indicators
 - I studied over 80 technical indicators in five notebooks.
     - [1. Technical Indicators - Volume.ipynb](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/1.%20Technical%20Indicators%20-%20Volume.ipynb)
@@ -26,9 +28,9 @@
 - Stocks
 - ... will be updated
 
-## Used in the example
-- [Here](https://github.com/jo-cho/trading-rules-using-machine-learning)
-
+## Other example
+- [Usage in my trading rule](https://github.com/jo-cho/trading-rules-using-machine-learning)
+- [Strategies using technical indicators](https://github.com/jo-cho/Technical_Ananylsis_Strategies_Cryptocurrency)
 # References
 - AFML (De Prado)
     - Chapter 8 Feature Importance
