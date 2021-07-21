@@ -1,6 +1,7 @@
 # Feature Engineering and Feature importance in Financial markets.
 
 [Background knowledge for Feature Analysis in Finance](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/Feature%20Analysis%20In%20Finance.ipynb)
+click this.
 
 ## Technical Indicators
 - I studied over 80 technical indicators in five notebooks.
