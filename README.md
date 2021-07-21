@@ -20,9 +20,10 @@ click this.
     - [Correlation with the PC (principle component) of highest MDI](https://github.com/jo-cho/Technical_Indicators_analysis/blob/main/ML%20PCA%20Feature%20Importance.ipynb)
 
 ## Feature Engineering
-- Autoencoder
+- Deep Autoencoder
     - (https://github.com/jo-cho/trading-rules-using-machine-learning)
     - working on this
+- CNN architecture
 
 ## Data
 - Cryptos
