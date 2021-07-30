@@ -1,6 +1,7 @@
-# Feature Engineering and Feature importance of Technical Indicators in Financial markets.
+# Feature Engineering and Feature importance in Financial markets.
 
-Background knowledge in [here](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/Feature%20Analysis%20(Tech.%20Indicators)%20for%20ML.ipynb)
+[Background knowledge for Feature Analysis in Finance](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/Feature%20Analysis%20In%20Finance.ipynb)
+click this.
 
 ## Technical Indicators
 - I studied over 80 technical indicators in five notebooks.
@@ -19,9 +20,10 @@ Background knowledge in [here](https://github.com/jo-cho/Technical_Analysis_and_
     - [Correlation with the PC (principle component) of highest MDI](https://github.com/jo-cho/Technical_Indicators_analysis/blob/main/ML%20PCA%20Feature%20Importance.ipynb)
 
 ## Feature Engineering
-- Autoencoder
+- Deep Autoencoder
     - (https://github.com/jo-cho/trading-rules-using-machine-learning)
     - working on this
+- CNN architecture
 
 ## Data
 - Cryptos
