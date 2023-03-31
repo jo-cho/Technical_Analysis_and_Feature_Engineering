@@ -35,15 +35,15 @@ Old ones
 - Daily Stocks
 
 ## Other example
-- [Usage in my trading rule](https://github.com/jo-cho/trading-rules-using-machine-learning)
-- [Strategies using technical indicators](https://github.com/jo-cho/Technical_Ananylsis_Strategies_Cryptocurrency)
+- [My trading rule](https://github.com/jo-cho/trading-rules-using-machine-learning)
+- [Trading strategies using technical indicators](https://github.com/jo-cho/Technical_Ananylsis_Strategies_Cryptocurrency)
 - 
 # References
-- AFML (De Prado)
+- De Prado, M. L. (2018). Advances in financial machine learning. John Wiley & Sons.
     - Chapter 8 Feature Importance
-- MLF-FTTP (Dixon et al.)
+- Dixon, M. F., Halperin, I., & Bilokon, P. (2020). Machine learning in Finance (Vol. 1170). Berlin and Heidelberg: Springer International Publishing.
     - Chapter 5. Interpretability
     - Chapter 8. 6. Autoencoders
-- ML4AT (S. Jansen)
+- Jansen, S. (2018). Hands-On Machine Learning for Algorithmic Trading: Design and implement investment strategies based on smart algorithms that learn from data using Python. Packt Publishing Ltd.
     - Chapter 4: Financial Feature Engineering
-- ta (https://github.com/bukosabino/ta)
+- Python library *ta* (https://github.com/bukosabino/ta)
