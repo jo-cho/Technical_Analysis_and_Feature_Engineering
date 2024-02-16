@@ -1,10 +1,10 @@
-# Feature Engineering and Feature importance in Financial markets.
+# Feature Engineering and Feature Importance in Machine Learning for Financial Markets
 
 [Background knowledge for Feature Analysis in Finance](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/Feature%20Analysis%20In%20Finance.ipynb)
-click this.
+
 
 ## Technical Indicators
-- I studied over 80 technical indicators in five notebooks.
+- I studied over 80 technical indicators.
     - [1. Technical Indicators - Volume.ipynb](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/1.%20Technical%20Indicators%20-%20Volume.ipynb)
     - [2. Technical Indicators - Volatility.ipynb](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/2.%20Technical%20Indicators%20-%20Volatility.ipynb)
     - [3. Technical Indicators - Trend.ipynb](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/3.%20Technical%20Indicators%20-%20Trend.ipynb)
@@ -12,31 +12,30 @@ click this.
     - [5. Using technical indicators in Meta-labeling.ipynb](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/blob/main/5.%20Using%20technical%20indicators%20in%20Meta-labeling.ipynb)
 
 - [Technical Indicators Binary Matrix](https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering/tree/main/ti_matrix)
-    - This is for an embedding experiment. 
+    - for input
 
 Old ones
-- With some Tech. indicators (old version)
+- T.I. Analysis (old version)
     - [TI Analysis](https://github.com/jo-cho/Technical_Indicators_analysis/blob/main/old%20ones/Tech.Indicators%20Analysis.ipynb)
-- Is it better than simple market data?
+- Is TA better than simple market data?
     - [TI vs. Simple](https://github.com/jo-cho/Technical_Indicators_analysis/blob/main/old%20ones/Tech.Indicators%20vs.%20Simple.ipynb)
 
 ## Feature Importance
 - Which one is important? with MDI
     - [Correlation with the PC (principle component) of highest MDI](https://github.com/jo-cho/Technical_Indicators_analysis/blob/main/old%20ones/ML%20PCA%20Feature%20Importance.ipynb)
 
-## Feature Engineering
+## Feature Engineering (.. in progress)
 - Deep Autoencoder
-    - working on this
 - CNN architecture
-- Embedding like words
+- FinEmbedding
 
 ## Data
-- High Frequency Cryptos
-- Daily Stocks
+- High Frequency Cryptos Prices
+- Daily Stock Prices
 
 ## Other example
-- [My trading rule](https://github.com/jo-cho/trading-rules-using-machine-learning)
-- [Trading strategies using technical indicators](https://github.com/jo-cho/Technical_Ananylsis_Strategies_Cryptocurrency)
+- [ML trading rule](https://github.com/jo-cho/trading-rules-using-machine-learning)
+- [Simple trading strategies using technical indicators](https://github.com/jo-cho/Technical_Ananylsis_Strategies_Cryptocurrency)
 - 
 # References
 - De Prado, M. L. (2018). Advances in financial machine learning. John Wiley & Sons.
